@@ -1,4 +1,3 @@
-[virtual-lab-preview.html](https://github.com/user-attachments/files/33129698/virtual-lab-preview.html)
 <!DOCTYPE html>
 <html lang="en"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
